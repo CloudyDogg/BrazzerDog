@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrazzerDog
+- 👋 Hi, I’m @ClodyDogg
 - 👀 I’m interested in some real solutions ;) 
 - 🌱 I’m currently learning java.kt , android dev
 - 💞️ I’m looking to collaborate on anybody 
